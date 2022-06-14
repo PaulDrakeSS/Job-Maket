@@ -92,20 +92,20 @@ line-height: 16px;
 } */
 
 .priceoff{
-  height: 16px;
+  /* height: 16px;
   width: 301px;
   left: 585px;
   top: 18px;
-  border-radius: nullpx;
+  border-radius: nullpx; */
   position: absolute;
   left: 42.83%;
   right: 35.14%;
-  top: 0.24%;
+  top: 20.24%;
   bottom: 99.54%;
 
-  font-family: 'SF Pro Display';
+  /* font-family: 'SF Pro Display';
   font-style: normal;
   font-weight: 400;
   font-size: 13px;
-  line-height: 16px;
+  line-height: 16px; */
 }
