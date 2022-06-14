@@ -1,0 +1,111 @@
+.topsmallbanner{
+  height: 66px;
+  width: 1366px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 99.11%;
+  background: var(--card-colors-blue);
+}
+
+.date{
+  height: 16px;
+width: 103px;
+left: 468px;
+top: 18px;
+border-radius: nullpx;
+font-family: SF Pro Display;
+font-size: 13px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: left;
+position: absolute;
+left: 34.26%;
+right: 58.2%;
+top: 0.24%;
+bottom: 99.54%;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+color: var(--white-text-color);
+}
+
+.grafity{
+  height: 59.93201446533203px;
+  width: 1024.00634765625px;
+  left: 91.1947021484375px;
+  top: 1.927001953125px;
+  border-radius: 0px; 
+  position: absolute;
+  left: 6.68%;
+  right: 18.36%;
+  top: 0.03%;
+  bottom: 99.17%;
+}
+
+/* .followers{
+  height: 16px;
+  width: 301px;
+  left: 585px;
+  top: 18px;
+  border-radius: nullpx;
+
+  font-family: SF Pro Display;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: left;
+
+font-family: SF Pro Display;
+font-size: 13px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: left;
+
+font-family: SF Pro Display;
+font-size: 13px;
+line-height: 15px;
+letter-spacing: 0em;
+text-align: left;
+
+  position: absolute;
+left: 42.83%;
+right: 35.14%;
+top: 0.24%;
+bottom: 99.54%;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+} */
+
+.priceoff{
+  height: 16px;
+  width: 301px;
+  left: 585px;
+  top: 18px;
+  border-radius: nullpx;
+  position: absolute;
+  left: 42.83%;
+  right: 35.14%;
+  top: 0.24%;
+  bottom: 99.54%;
+
+  font-family: 'SF Pro Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 16px;
+}
