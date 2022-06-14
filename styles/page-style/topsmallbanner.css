@@ -109,3 +109,25 @@ line-height: 16px;
   font-size: 13px;
   line-height: 16px; */
 }
+
+.prices{
+  height: 14px;
+  width: 226px;
+  left: 555px;
+  top: 37px;
+  opacity: 50%;
+  border-radius: nullpx;
+  position: absolute;
+  left: 40.63%;
+  right: 42.83%;
+  top: 30.5%;
+  bottom: 99.31%;
+
+  font-family: 'SF Pro Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  color: var(--white-text-color);
+
+}
