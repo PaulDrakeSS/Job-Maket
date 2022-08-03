@@ -1,12 +1,12 @@
-@font-face {
+/* @font-face {
   font-family: SFProDisplay-Regular;
-  src: url("SFProDisplay-Regular.ttf");
+  src: local("SFProDisplay-Regular.ttf");
 }
 
 @font-face {
   font-family: SFProDisplay-Bold;
   src: url("SFProDisplay-Bold.ttf");
-}
+} */
 
 * {
   box-sizing: border-box;
