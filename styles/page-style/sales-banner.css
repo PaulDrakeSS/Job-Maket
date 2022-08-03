@@ -1,0 +1,87 @@
+@font-face {
+  font-family: SFProDisplay-Regular;
+  src: url("SFProDisplay-Regular.ttf");
+}
+
+@font-face {
+  font-family: SFProDisplay-Bold;
+  src: url("SFProDisplay-Bold.ttf");
+}
+
+.sales-banner {
+  max-width: 1396px;
+  margin: 0 auto;
+}
+
+.sales-banner__content {
+  background: #3740ff;
+  margin-left: 10px;
+  margin-right: 10px;
+  height: 66px;
+  padding-top: 18px;
+}
+
+.sales-banner__title {
+  display: flex;
+  margin-left: 468px;
+}
+
+p {
+  margin: 0;
+}
+
+.sales-banner__title-date {
+  font-family: SFProDisplay-Regular;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 16px;
+  color: #fff;
+}
+
+.sales-banner__title-message {
+  font-size: 13px;
+  line-height: 16px;
+  color: #fff;
+  margin-left: 14px;
+}
+
+.sales-banner__title-message p {
+  font-family: SFProDisplay-Bold;
+  font-weight: 700;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.sales-banner__green-text {
+  font-family: SFProDisplay-Regular;
+  font-size: 13px;
+  font-weight: 400;
+  color: #00ff00;
+}
+
+.sales-banner__yellow-text {
+  font-family: SFProDisplay-Regular;
+  color: #ffe226;
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.sales-banner__description {
+  font-family: SFProDisplay-Regular;
+  height: auto;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14px;
+  width: 226px;
+  margin-left: 555px;
+  color: #fff;
+  opacity: 0.5;
+}
+
+.sales-banner__shape {
+  position: relative;
+  bottom: 46px;
+  max-height: 62px;
+  margin-left: 92px;
+}
