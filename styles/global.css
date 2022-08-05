@@ -10,7 +10,9 @@
   src: url("SFProDisplay-Bold.ttf");
 } */
 
-* {
+*,
+*::after,
+*::before {
   box-sizing: border-box;
 }
 
