@@ -26,4 +26,7 @@ html {
   --main-text-color: #080940;
   --white-text-color: #ffffff;
   --card-colors-blue: #474dff;
+
+  --main-block-width: 100%;
+  --main-block-padding: 10rem;
 }

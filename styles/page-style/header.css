@@ -1,12 +1,85 @@
+@font-face {
+  font-family: Poppins-Regular;
+  src: url("Poppins-Regular.ttf");
+}
+
+@font-face {
+  font-family: SFProDisplay-Regular;
+  src: url("SFProDisplay-Regular.ttf");
+}
+
 .header {
   max-width: 1396px;
   margin: 0 auto;
+  padding-top: 36px;
+  padding-bottom: 62px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 .header-inner {
+  margin-right: 171px;
+  margin-left: 140px;
+}
+
+.header-nav ul {
+  display: flex;
+}
+
+.header-row {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-left: 10px;
-  margin-right: 10px;
+}
+
+.header-nav a {
+  display: flex;
+  text-decoration: none;
+  font-family: Poppins-Regular;
+  font-weight: 400px;
+  font-size: 12px;
+  color: #080940;
+}
+
+.header-nav li {
+  list-style-type: none;
+}
+
+.header-nav li + li {
+  margin-left: 42px;
+}
+
+.header-nav a {
+  transition: color 0.2s ease;
+}
+
+.header-nav a:hover {
+  color: #474dff;
+}
+
+.header-trial a,
+.header-trial btn {
+  text-decoration: none;
+  background-color: #3740ff;
+}
+
+.btn,
+a.btn {
+  display: inline-block;
+  font-family: SFProDisplay-Regular;
+  font-size: 12px;
+  font-weight: 400;
+  height: 42px;
+  line-height: 42px;
+  padding-left: 31px;
+  padding-right: 38px;
+  color: white;
+  border-radius: 8px;
+  transition: opacity 0.2s ease;
+}
+
+.btn:hover,
+a.btn:hover {
+  opacity: 0.8;
+  color: white;
 }
