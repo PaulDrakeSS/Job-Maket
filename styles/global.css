@@ -1,14 +1,19 @@
 /* выяснить почему не подключается шрифт */
 
-/* @font-face {
+@font-face {
   font-family: SFProDisplay-Regular;
-  src: local("SFProDisplay-Regular.ttf");
+  src: url("../fonts/SFProDisplay-Regular.ttf");
 }
 
 @font-face {
   font-family: SFProDisplay-Bold;
-  src: url("SFProDisplay-Bold.ttf");
-} */
+  src: url("../fonts/SFProDisplay-Bold.ttf");
+}
+
+@font-face {
+  font-family: Poppins-Regular;
+  src: url("../fonts/Poppins-Regular.ttf");
+}
 
 *,
 *::after,
