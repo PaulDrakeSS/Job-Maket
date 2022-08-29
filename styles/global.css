@@ -15,6 +15,11 @@
   src: url("../fonts/Poppins-Regular.ttf");
 }
 
+@font-face {
+  font-family: Gilroy-Heavy;
+  src: url("../fonts/Gilroy-Heavy.ttf");
+}
+
 *,
 *::after,
 *::before {
