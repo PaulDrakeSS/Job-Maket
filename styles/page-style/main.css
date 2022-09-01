@@ -9,6 +9,7 @@
 .main-inner {
   margin-right: 171px;
   margin-left: 140px;
+  position: relative;
 }
 
 .main-inner__column_text {
@@ -67,8 +68,8 @@ a.big-btn:hover {
 .main-inner__bg_circles {
   position: absolute;
   z-index: 1;
-  top: 247px;
-  left: 467px;
+  top: 37px;
+  left: 202px;
   border: 1px solid red;
 }
 
